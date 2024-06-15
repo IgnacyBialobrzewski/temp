@@ -5,8 +5,6 @@
 - Go
 - PHP
 - SQL
-- HTML5
-- CSS3
 
 ## Inne
 
