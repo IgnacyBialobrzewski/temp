@@ -25,7 +25,7 @@ W okresie wakacji 2024 planuję rozwijać swoją dotychczasową wiedzę poprzez 
 - Node
 
 <hr>
-Roku szkolnym 2024/2025 jako uczeń trzeciej klasy technikum będę miał możliwość odbycia praktyk zawodowych w związku z czym jestem zainteresowany praktyką.
+W roku szkolnym 2024/2025, jako uczeń trzeciej klasy technikum, będę miał możliwość odbycia praktyk zawodowych, w związku z czym jestem zainteresowany praktyką.
 
 ### Kontakt
 
