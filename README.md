@@ -16,8 +16,6 @@ W okresie wakacji 2024 planuje rozwijać swoją dotychczasową wiedze poprzez zd
 - Go
 - PHP
 - SQL
-- HTML5
-- CSS3
 
 ## Inne
 
