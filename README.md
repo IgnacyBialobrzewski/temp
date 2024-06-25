@@ -28,4 +28,4 @@ W okresie wakacji 2024 planuje rozwijać swoją dotychczasową wiedze poprzez zd
 
 Ignacy Białobrzewski<br>
 E-mail: ignacybialobrzewski99@gmail.com<br>
-Nr. telefonu: 48+ 534 578 409
+Nr. Telefonu: 48+ 534 578 409
